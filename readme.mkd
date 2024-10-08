@@ -1,0 +1,42 @@
+<h1 align="center"> 💱 Convert 💱 </h1>
+
+<p align="center">
+Projeto pessoal utilizando conceitos HTML, CSS e Javascript.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Interface de uma página de Conversão de câmbio" src="./img/capa-readme.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-   HTML e CSS
+-   Javascript
+-   Git e GitHub
+-   Figma
+
+## 💻 Projeto
+
+Convert é uma página web para conversão de câmbio, o usuário poderá escolher entre dólar, euro e libra esterlina para serem convertidas no seu câmbio nativo (no caso do projeto o Real BRL foi escolhido como câmbio nativo). Clique <a href="https://refund-six.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a> para testar a página.
+
+## 🎨 Layout
+
+Clique <a href="https://www.figma.com/design/ZPs285hGjA8yB7xqIs2LrX/Conversor-de-Moedas-(Community)?node-id=0-1&node-type=canvas&t=jKYMeZzpmF9vNuJG-0">aqui</a> para conhecer a prototipagem do projeto.
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+Desenvolvido com ♥ by Mateus de Castro Macedo 👨‍💻
+</p>
