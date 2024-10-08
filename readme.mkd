@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Convert é uma página web para conversão de câmbio, o usuário poderá escolher entre dólar, euro e libra esterlina para serem convertidas no seu câmbio nativo (no caso do projeto o Real BRL foi escolhido como câmbio nativo). Clique <a href="https://refund-six.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a> para testar a página.
+Convert é uma página web para conversão de câmbio, o usuário poderá escolher entre dólar, euro e libra esterlina para serem convertidas no seu câmbio nativo (no caso do projeto o Real BRL foi escolhido como câmbio nativo). Clique <a href="https://convert-liard.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a> para testar a página.
 
 ## 🎨 Layout
 
